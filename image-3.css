@@ -1,0 +1,43 @@
+h3{
+  text-decoration: underline;
+}
+
+.text {
+  color: blue;
+}
+
+.first-link {
+  color: #FFAE19;
+}
+
+.third-link {
+  background-color: yellow;
+}
+
+.please {
+  font-weight: bold;
+}
+
+.for-link {
+  color: red;
+}
+
+ul.list-number li {
+  color: blue;
+}
+
+.another-link {
+  color: red;
+}
+
+.first-item {
+  font-weight: bold;
+}
+
+.last-list {
+  list-style-type: none;
+}
+
+.main-list > li {
+  margin-bottom: 17px;
+}
