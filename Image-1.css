@@ -1,0 +1,13 @@
+.container{
+  padding: 50px;
+  border: 1px solid #888888;
+}
+table {
+  border-spacing: 10px ;
+}
+td {
+  border: 1px solid;
+  border-radius: 3px;
+  box-shadow: 2px 2px 1px 1px #888888;
+  padding: 2px;
+}
