@@ -1,0 +1,27 @@
+h1{
+  padding-left: 8px;
+}
+
+.container{
+  background-color: #FFFFF1;
+  border-right: 2px solid black;
+  max-width: 934px;
+  padding: 10px;
+}
+
+.cart {
+  width: 288px;
+  padding: 0 10px;
+  display: inline-block;
+  background-color: #EAEAED;
+}
+
+.middle-paragraph {
+  height: 50px;
+  overflow-y: scroll;
+  font-weight: bold;
+}
+
+.class-hr {
+  border-top: 2px solid black;
+}
