@@ -11,9 +11,11 @@ h1{
 
 .cart {
   width: 288px;
+  height: 150PX;
   padding: 0 10px;
   display: inline-block;
   background-color: #EAEAED;
+  overflow: hidden;
 }
 
 .middle-paragraph {
